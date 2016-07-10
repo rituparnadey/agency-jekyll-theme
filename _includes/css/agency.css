@@ -119,6 +119,7 @@ fieldset[disabled] .btn-primary.active {
 }
 
 .btn-xl {
+    margin-top: 36px;
     padding: 20px 40px;
     border-color: #{{ site.color.primary }};
     border-radius: 3px;
