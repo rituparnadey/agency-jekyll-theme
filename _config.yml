@@ -24,6 +24,22 @@ address:
   - line: Pune
   - line: Maharashtra, India
 
+images: 
+  - image: 'a'
+  - image: 'b'
+  - image: 'd'
+  - image: 'e'
+  - image: 'f'
+  - image: 'g'
+  - image: 'h'
+  - image: 'i'
+  - image: 'j'
+  - image: 'k'
+  - image: 'l'
+  - image: 'm'
+  - image: 'n'
+  - image: 'o'
+  - image: 'c'
 # Build settings
 markdown: kramdown
 permalink: pretty
