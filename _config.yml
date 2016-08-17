@@ -40,6 +40,13 @@ images:
   - image: 'n'
   - image: 'o'
   - image: 'c'
+  - image: 'p'
+  - image: 'q'
+  - image: 'r'
+  - image: 's'
+  - image: 't'
+  - image: 'u'
+
 # Build settings
 markdown: kramdown
 permalink: pretty
